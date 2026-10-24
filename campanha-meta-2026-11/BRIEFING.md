@@ -39,7 +39,7 @@ motorista só funcionou com público amplo (sem filtro "moradores") e com a TESE
 | Recomendado | 120 | 48 | 30 | 42 | 2.760 |
 
 ## Pendências
-- Aprovar cenário de orçamento.
+- Orçamento APROVADO: Recomendado, R$ 120/dia (24/10/2026).
 - Taxa de conversão conversa → contrato das campanhas anteriores (do WhatsApp/CRM).
 - Enviar roteiro atual da triagem do WhatsApp.
 - Pesquisa TRT-15 / TRT-9 por tema.
