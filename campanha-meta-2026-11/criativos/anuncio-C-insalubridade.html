@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=1080, height=1920">
+<title>Anúncio C — Insalubridade</title><link rel="stylesheet" href="engine.css"><script src="assets/gsap.min.js"></script></head>
+<body><div id="stage"></div>
+<script>
+window.AD = {
+  brand: "Takahashi Advogados Associados",
+  scenes: [
+    { type: "hook", dur: 3.0, lines: ["Limpeza de", "banheiro de", "<em>grande</em>", "<em>movimento.</em>"] },
+    { type: "chips", dur: 3.4, lines: ["Em locais como:"], chips: ["Shopping", "Rodoviária", "Escola", "Hospital", "Supermercado", "Hotel"] },
+    { type: "counter", dur: 4.6, lines: ["A Justiça do Trabalho", "tem reconhecido", "insalubridade em"], from: 20, to: 40, legend: ["Grau médio", "Grau máximo"], note: "TST, Súmula 448, II" },
+    { type: "statement", dur: 3.2, lines: ["Recebe em <em>grau médio</em>", "ou não recebe nada?", "Vale conferir."] },
+    { type: "cta", dur: 4.4, lines: ["Carteira assinada", "ou terceirizada:", "tire sua dúvida."], button: "Fale no WhatsApp", disclaimer: "Conteúdo informativo. Cada caso exige análise individual." }
+  ]
+};
+</script>
+<script src="engine.js"></script></body></html>
