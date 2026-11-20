@@ -55,3 +55,15 @@ Viabilidade técnica: o Meta define o número no CONJUNTO de anúncios (promoted
 Página atual da conta: "Arielton Oliveira - Takahashi Advogados" (única). Pendente: conectar os números das unidades
 à Página e conferir se aparecem no seletor do conjunto. Plano B: uma Página por unidade. Plano C: tráfego para link wa.me.
 Orçamento de R$ 120/dia precisa ser redistribuído entre as três áreas.
+
+## REVISÃO 20/11/2026 (2) — decisões
+- Orçamento: triplica → R$ 360/dia. Proposta: Trabalhista 35% (R$ 126) · Previdenciário 35% (R$ 126) · Cível 30% (R$ 108) [A APROVAR].
+- Trabalhista: só o vídeo A (rescisão). B e C ficam em espera.
+- Previdenciário: recomendação de restringir a aposentadoria especial, auxílio por incapacidade e acidentário.
+- Cível — carga suplementar (fonte: arieltonoliveira.site/professor/carga-suplementar, lida em 20/11/2026):
+  tese = abono complementar do piso (Lei 11.738/2008; Decreto 62.500/2017) deve integrar a base da carga suplementar
+  (LC 1.374/2022, art. 11; LC 836/1997, art. 35), com reflexos em 13º, 1/3 de férias, quinquênio, sexta-parte e licença-prêmio.
+  Precedentes citados na página: TJSP RI 1075592-34.2024.8.26.0053 (7ª TR Fazenda, 31/03/2025); RI 1090555-47.2024.8.26.0053
+  (5ª TR, 23/06/2025); RI 1000489-88.2026.8.26.0299 (3ª TR, 19/06/2026). Ativos e aposentados; prescrição quinquenal.
+  Responsável: Antonio Carlos Bernardino Narente, OAB/SP 307.034. Destino: WhatsApp de Botucatu.
+- Teste dos números por unidade: em rascunho no Meta (nada é publicado) assim que os números forem informados.
