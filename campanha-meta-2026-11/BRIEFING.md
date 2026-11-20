@@ -78,3 +78,16 @@ Orçamento de R$ 120/dia precisa ser redistribuído entre as três áreas.
 - Caminhos: (1) uma Página por unidade (Botucatu, Limeira, Sorocaba), cada uma com o WhatsApp da unidade como padrão;
   (2) cadastrar os números no portfólio empresarial (WhatsApp Business Platform) [mais trabalhoso; VERIFICAR coexistência com o app].
 - Número da matriz informado como (43) 9928-4130; usado (43) 99928-4130, conforme cards do escritório [CONFIRMAR].
+
+## RASCUNHO PRONTO — Trabalhista / rescisão (fase de teste com WhatsApp da matriz), 20/11/2026
+Campanha 52562827792987 · CBO R$ 126/dia · início 27/11/2026 08:00 · objetivo engajamento → conversas no WhatsApp
+| Conjunto | ID | Anúncio | ID | Mensagem pré-preenchida |
+|---|---|---|---|---|
+| Botucatu + 40 km | 52562830638187 | Rescisão vídeo A / Botucatu | 52562830875987 | "Sou da região de Botucatu…" |
+| Limeira + 40 km | 52562830638787 | Rescisão vídeo A / Limeira | 52562830956587 | "Sou da região de Limeira…" |
+| Sorocaba + 40 km | 52562830641187 | Rescisão vídeo A / Sorocaba | 52562830980187 | "Sou da região de Sorocaba…" |
+| Londrina + 40 km | 52562827886787 | Rescisão vídeo A / Londrina | 52562830999987 | "Sou da região de Londrina…" |
+Mídia: vídeo 4408055362839431 · capa (hash) 095e60f9d9d64a0e6bab5bdd9a90e06e · Instagram @arielton.oliveira.
+Responsável no texto: Arielton Tadeu Abia de Oliveira, OAB/SP 307.035 e OAB/PR 37.201 [CONFIRMAR].
+Sem erros de validação. Publicação só com autorização do escritório.
+Após as Páginas das unidades: trocar a Página/WhatsApp de cada conjunto (Botucatu, Limeira, Sorocaba).
