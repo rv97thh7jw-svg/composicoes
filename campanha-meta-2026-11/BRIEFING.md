@@ -116,3 +116,9 @@ Após as Páginas das unidades: trocar a Página/WhatsApp de cada conjunto (Botu
 - Previdenciário: vídeos no Meta — E1 1419595993497316 (capa 601a9a2ec103e6fddce133ca90db180a), E2 1812753476624581
   (capa 54ffa215ae3c34ebc7eeb854a4af4834), E3 1767278117678567 (capa 9a0352a437086e54f8758600b66ef905). Anúncios NÃO criados:
   aguardando decisão sobre a identidade (Página/Instagram) de onde sairão.
+
+## 20/11/2026 (fim do dia) — TUDO PAUSADO a pedido do escritório
+- Trabalhista/rescisão 52562827792987: PAUSADA. Cível/carga suplementar 52562832225987: PAUSADA.
+- Previdenciário 52562837398387: rascunho (nunca publicado, não roda).
+- Pendente para retomar: definir a identidade (Página/Instagram institucional ou Páginas das unidades) e reativar.
+- Fora desta campanha e ainda ativo na conta: impulsionamento "Post do Instagram: A escala 6x1 acabou?…" (52556162548187).
