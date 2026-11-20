@@ -98,5 +98,5 @@ Após as Páginas das unidades: trocar a Página/WhatsApp de cada conjunto (Botu
 ## RASCUNHO — Cível / carga suplementar (aguardando aprovação do vídeo)
 - Campanha 52562832225987 · CBO R$ 108/dia · conjunto 52562832343987 (estado de SP: 18 polos, raio 80 km, 25-65)
 - Anúncio 52562832417987 · vídeo 1481669254156383 (anuncio-D-carga-suplementar-9x16.mp4) · capa e1357886ea97156267cf45a21465a675
-- Responsável: Antonio Carlos Bernardino Narente, OAB/SP 307.034. Vídeo sem retrato (a foto disponível é de outro advogado).
+- Responsável: Antonio Carlos Bernardino Narente, OAB/SP 307.034, com o retrato dele no fechamento (foto enviada em 20/11). Vídeo atual no Meta: 2313324482544921.
 - Mensagem pré-preenchida: "Olá! Sou professor(a) da rede estadual de SP e quero conferir a minha carga suplementar."

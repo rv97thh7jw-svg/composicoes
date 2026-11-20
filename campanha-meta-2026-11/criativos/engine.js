@@ -23,8 +23,8 @@
     holerite: (s) => `<div class="scene">${lines(s.lines, "h2")}<div class="paper"><div class="ph"><span>Recibo de pagamento</span><span>Mês/ano</span></div>
       ${s.rows.map((r, i) => `<div class="row" data-i="${i}">${i === s.highlight ? '<div class="hl"></div>' : ""}<span>${r}</span><b>R$ ••••,••</b></div>`).join("")}
       <div class="scan"></div></div><div class="callout">${s.callout}</div></div>`,
-    // portrait: false quando o advogado responsável pela peça não é o da foto
-    cta: (s) => `<div class="scene cta-scene">${s.portrait === false ? "" : '<div class="portrait"></div>'}<img class="logo" src="assets/logo.png" alt="">
+    // portrait: false omite a foto; uma string troca o arquivo (a foto deve ser do advogado que assina a peça)
+    cta: (s) => `<div class="scene cta-scene">${s.portrait === false ? "" : `<div class="portrait"${typeof s.portrait === "string" ? ` style="background-image:url(${s.portrait})"` : ""}></div>`}<img class="logo" src="assets/logo.png" alt="">
       <div class="cta-copy">${lines(s.lines, "h2")}<div class="btn">${CHAT}<span>${s.button}</span></div></div>
       <div class="disclaimer">${s.disclaimer}</div></div>`,
   };
