@@ -100,3 +100,11 @@ Após as Páginas das unidades: trocar a Página/WhatsApp de cada conjunto (Botu
 - Anúncio 52562832417987 · vídeo 1481669254156383 (anuncio-D-carga-suplementar-9x16.mp4) · capa e1357886ea97156267cf45a21465a675
 - Responsável: Antonio Carlos Bernardino Narente, OAB/SP 307.034, com o retrato dele no fechamento (foto enviada em 20/11). Vídeo atual no Meta: 2313324482544921.
 - Mensagem pré-preenchida: "Olá! Sou professor(a) da rede estadual de SP e quero conferir a minha carga suplementar."
+
+## AJUSTE OAB nos fechamentos — 20/11/2026
+- Removido "Confira o seu holerite / tempo especial pelo WhatsApp" (soa como oferta de análise do caso).
+- Fechamento padrão: "Ficou com alguma dúvida? Fale pelo WhatsApp." / botão "Dúvidas" (pedido do escritório).
+- Rescisão: rodapé do fechamento passa a trazer Arielton T. A. de Oliveira, OAB/SP 307.035 e OAB/PR 37.201.
+- Previdenciário: campanha rascunho 52562837398387 (R$ 126/dia); conjuntos Botucatu 52562837468587, Limeira 52562837469787,
+  Sorocaba 52562837472987, Londrina 52562837473987. Vídeos E1 (aposentadoria especial), E2 (auxílio por incapacidade),
+  E3 (auxílio-acidente), assinados por Thais Takahashi, OAB/SP 307.045.

@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=1080, height=1920">
+<title>Anúncio E3 — Auxílio-acidente</title><link rel="stylesheet" href="engine.css"><script src="assets/gsap.min.js"></script></head>
+<body><div id="stage"></div>
+<script>
+window.AD = {
+  brand: "Takahashi Advogados Associados",
+  scenes: [
+    { type: "hook", dur: 3.0, lines: ["Sofreu um", "acidente e ficou", "com <em>sequela?</em>"] },
+    { type: "statement", dur: 3.8, lines: ["Mesmo voltando", "a trabalhar, pode", "haver direito ao", "<em>auxílio-acidente.</em>"], note: "Lei 8.213/1991, art. 86" },
+    { type: "chips", dur: 3.6, lines: ["Vale para acidente", "de qualquer natureza:"], chips: ["Trabalho", "Trânsito", "Em casa", "Esporte"] },
+    { type: "counter", dur: 4.4, lines: ["Indenização mensal", "de"], from: 0, to: 50, legend: ["Do salário de benefício", ""], note: "Pode ser recebido junto com o salário" },
+    { type: "cta", dur: 4.6, portrait: "assets/retrato-thais.jpg", lines: ["Tem sequela?", "Tire sua dúvida", "pelo WhatsApp."], button: "Dúvidas", disclaimer: "Conteúdo informativo. Thais Takahashi · OAB/SP 307.045" }
+  ]
+};
+</script>
+<script src="engine.js"></script></body></html>
