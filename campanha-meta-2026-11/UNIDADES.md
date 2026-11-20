@@ -10,6 +10,8 @@
 Site: takahashiadv.com.br · E-mail: contato@takahashiadv.com.br
 
 ## Advogados (rodapé do site do escritório)
+Responsável por área nos anúncios (definido em 20/11/2026): Trabalhista — Arielton; Cível/carga suplementar — Antonio Carlos B. Narente; Previdenciário — Thais Takahashi.
+
 - Antonio Carlos Bernardino Narente — OAB/SP 307.034 (causas de professores contra a Fazenda — carga suplementar)
 - Arielton Tadeu Abia de Oliveira — OAB/SP 307.035 e OAB/PR 37.201
 - Thais Takahashi — OAB/SP 307.045
