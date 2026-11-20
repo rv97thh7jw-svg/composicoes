@@ -67,3 +67,14 @@ Orçamento de R$ 120/dia precisa ser redistribuído entre as três áreas.
   (5ª TR, 23/06/2025); RI 1000489-88.2026.8.26.0299 (3ª TR, 19/06/2026). Ativos e aposentados; prescrição quinquenal.
   Responsável: Antonio Carlos Bernardino Narente, OAB/SP 307.034. Destino: WhatsApp de Botucatu.
 - Teste dos números por unidade: em rascunho no Meta (nada é publicado) assim que os números forem informados.
+
+## TESTE DOS NÚMEROS POR UNIDADE — 20/11/2026 (rascunho no Meta, nada publicado)
+- Campanha rascunho: 52562827792987 "[TAKAHASHI/TRABALHISTA] [MENSAGENS] Rescisão | 4 regiões | 2026-11" (CBO R$ 126/dia, início 27/11).
+- Conjunto com número explícito (whatsapp_phone_number): Botucatu (+55 14 98224-0533) e matriz (+55 43 99928-4130)
+  → erro 1487246 "This WhatsApp phone number is not linked to your account". Com "+" no número → erro interno.
+- Conjunto só com page_id → aceito sem erro (usa o WhatsApp padrão da Página). Mantido como Londrina (52562827886787).
+- Conclusão: os números estão ligados à Página pelo app WhatsApp Business, não como conta do WhatsApp no portfólio
+  empresarial; por isso o Meta não deixa escolher o número por conjunto.
+- Caminhos: (1) uma Página por unidade (Botucatu, Limeira, Sorocaba), cada uma com o WhatsApp da unidade como padrão;
+  (2) cadastrar os números no portfólio empresarial (WhatsApp Business Platform) [mais trabalhoso; VERIFICAR coexistência com o app].
+- Número da matriz informado como (43) 9928-4130; usado (43) 99928-4130, conforme cards do escritório [CONFIRMAR].
