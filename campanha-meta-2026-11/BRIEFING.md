@@ -43,3 +43,15 @@ motorista só funcionou com público amplo (sem filtro "moradores") e com a TESE
 - Taxa de conversão conversa → contrato das campanhas anteriores (do WhatsApp/CRM).
 - Enviar roteiro atual da triagem do WhatsApp.
 - Pesquisa TRT-15 / TRT-9 por tema.
+
+## REVISÃO 20/11/2026 — três áreas, número de WhatsApp por unidade
+| Área | Tema | Regiões | WhatsApp de destino |
+|---|---|---|---|
+| Cível (servidor) | Carga suplementar — professores estaduais | Estado de SP (somente) | Unidade Botucatu |
+| Trabalhista | Rescisão, motorista, insalubridade (vídeos A/B/C) | Botucatu, Limeira, Sorocaba, Londrina | Número de cada unidade; Londrina = matriz (Cornélio Procópio) |
+| Previdenciário | [DEFINIR TESES] | Botucatu, Limeira, Sorocaba, Londrina | Idem trabalhista |
+
+Viabilidade técnica: o Meta define o número no CONJUNTO de anúncios (promoted_object: page_id + whatsapp_phone_number).
+Página atual da conta: "Arielton Oliveira - Takahashi Advogados" (única). Pendente: conectar os números das unidades
+à Página e conferir se aparecem no seletor do conjunto. Plano B: uma Página por unidade. Plano C: tráfego para link wa.me.
+Orçamento de R$ 120/dia precisa ser redistribuído entre as três áreas.
