@@ -108,3 +108,11 @@ Após as Páginas das unidades: trocar a Página/WhatsApp de cada conjunto (Botu
 - Previdenciário: campanha rascunho 52562837398387 (R$ 126/dia); conjuntos Botucatu 52562837468587, Limeira 52562837469787,
   Sorocaba 52562837472987, Londrina 52562837473987. Vídeos E1 (aposentadoria especial), E2 (auxílio por incapacidade),
   E3 (auxílio-acidente), assinados por Thais Takahashi, OAB/SP 307.045.
+
+## 20/11/2026 (tarde)
+- Rescisão: vídeo trocado nos 4 anúncios (botão "Dúvidas", OAB do Dr. Arielton no fechamento). Vídeo 1007593815736851. Em revisão do Meta.
+- Carga suplementar: campanha 52562832225987 PAUSADA — o anúncio saía pelo perfil/página do Dr. Arielton com o rosto do Dr. Antonio.
+  Vídeo novo já no Meta (4740933212795045), ainda não aplicado ao anúncio.
+- Previdenciário: vídeos no Meta — E1 1419595993497316 (capa 601a9a2ec103e6fddce133ca90db180a), E2 1812753476624581
+  (capa 54ffa215ae3c34ebc7eeb854a4af4834), E3 1767278117678567 (capa 9a0352a437086e54f8758600b66ef905). Anúncios NÃO criados:
+  aguardando decisão sobre a identidade (Página/Instagram) de onde sairão.
