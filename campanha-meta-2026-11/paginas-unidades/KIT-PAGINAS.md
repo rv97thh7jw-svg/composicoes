@@ -14,10 +14,10 @@ Página atual (Cornélio Procópio/Londrina): "Arielton Oliveira - Takahashi Adv
 | Nome | Takahashi Advogados – Botucatu | Takahashi Advogados – Limeira | Takahashi Advogados – Sorocaba |
 | Categoria | Advogado e escritório de advocacia | idem | idem |
 | WhatsApp | +55 14 98224-0533 | +55 19 98100-3106 | +55 15 98182-0047 |
-| Endereço | R. Cel. José Vitoriano Villas Boas, 108, Centro | [PREENCHER] | [PREENCHER] |
+| Endereço | R. Cel. José Vitoriano Villas Boas, 108, Centro, Botucatu - SP | R. João Guilherme, 447 - Vila Cidade Jardim, Limeira - SP, 13480-260 | R. Milton Monzoni Wagner, 193 - Parque Campolim, Sorocaba - SP, 18047-634 |
 | Site | takahashiadv.com.br | idem | idem |
 | E-mail | contato@takahashiadv.com.br | idem | idem |
-| Horário | [PREENCHER] | [PREENCHER] | [PREENCHER] |
+| Horário | [PREENCHER] | Segunda a sexta, 8h às 18h | Segunda a sexta, somente com hora marcada |
 
 Bio (até 101 caracteres; trocar a cidade):
 > Advocacia trabalhista, previdenciária e cível. Unidade Botucatu. Escritório fundado em 1975.
